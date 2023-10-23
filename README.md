@@ -1,2 +1,2 @@
 # KioskShell
-Windows Shell For Windows Kiosks 
+Windows Shell For Windows Kiosk
